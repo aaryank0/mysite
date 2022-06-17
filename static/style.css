@@ -101,7 +101,10 @@ h1{
     border-radius: 10px;
 }
 
-
+.container{
+    background-image:url("static/img/bg.png")
+  }
+  
 
 
 
